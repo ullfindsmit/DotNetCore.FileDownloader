@@ -1,0 +1,13 @@
+E:\Cloud\OneDrive\APPS\FileDownloader\Code\DotNetCore.FileDownloader\DotNetCore.FileDownloader\bin\Release\netcoreapp2.0\DotNetCore.FileDownloader.deps.json
+E:\Cloud\OneDrive\APPS\FileDownloader\Code\DotNetCore.FileDownloader\DotNetCore.FileDownloader\bin\Release\netcoreapp2.0\DotNetCore.FileDownloader.runtimeconfig.json
+E:\Cloud\OneDrive\APPS\FileDownloader\Code\DotNetCore.FileDownloader\DotNetCore.FileDownloader\bin\Release\netcoreapp2.0\DotNetCore.FileDownloader.runtimeconfig.dev.json
+E:\Cloud\OneDrive\APPS\FileDownloader\Code\DotNetCore.FileDownloader\DotNetCore.FileDownloader\bin\Release\netcoreapp2.0\DotNetCore.FileDownloader.dll
+E:\Cloud\OneDrive\APPS\FileDownloader\Code\DotNetCore.FileDownloader\DotNetCore.FileDownloader\bin\Release\netcoreapp2.0\DotNetCore.FileDownloader.pdb
+E:\Cloud\OneDrive\APPS\FileDownloader\Code\DotNetCore.FileDownloader\DotNetCore.FileDownloader\obj\Release\netcoreapp2.0\DotNetCore.FileDownloader.vbproj.CoreCompileInputs.cache
+E:\Cloud\OneDrive\APPS\FileDownloader\Code\DotNetCore.FileDownloader\DotNetCore.FileDownloader\obj\Release\netcoreapp2.0\DotNetCore.FileDownloader.AssemblyInfoInputs.cache
+E:\Cloud\OneDrive\APPS\FileDownloader\Code\DotNetCore.FileDownloader\DotNetCore.FileDownloader\obj\Release\netcoreapp2.0\DotNetCore.FileDownloader.AssemblyInfo.vb
+E:\Cloud\OneDrive\APPS\FileDownloader\Code\DotNetCore.FileDownloader\DotNetCore.FileDownloader\obj\Release\netcoreapp2.0\DotNetCore.FileDownloader.dll
+E:\Cloud\OneDrive\APPS\FileDownloader\Code\DotNetCore.FileDownloader\DotNetCore.FileDownloader\obj\Release\netcoreapp2.0\DotNetCore.FileDownloader.pdb
+E:\Cloud\OneDrive\APPS\FileDownloader\Code\DotNetCore.FileDownloader\DotNetCore.FileDownloader\obj\Release\netcoreapp2.0\DotNetCore.FileDownloader.vbprojResolveAssemblyReference.cache
+E:\Cloud\OneDrive\APPS\FileDownloader\Code\DotNetCore.FileDownloader\DotNetCore.FileDownloader\bin\Release\netcoreapp2.0\RunApp.bat
+E:\Cloud\OneDrive\APPS\FileDownloader\Code\DotNetCore.FileDownloader\DotNetCore.FileDownloader\bin\Release\netcoreapp2.0\Download.txt

@@ -1,0 +1,2 @@
+﻿
+dotnet DotNetCore.FileDownloader.dll
